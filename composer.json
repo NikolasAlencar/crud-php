@@ -1,0 +1,8 @@
+{
+    "name":"crud/funcionarios",
+    "autoload":{
+      "psr-4":{
+        "App\\":"app/"
+      }
+    }
+  }
